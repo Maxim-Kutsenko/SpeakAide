@@ -1,0 +1,46 @@
+// Helix 700 400 500 
+
+
+
+
+@font-face {
+  font-family: 'Hellix';
+  src: url('./fonts/Hellix-Light.eot');
+  src: local('Hellix Light'), local('Hellix-Light'),
+      url('../fonts/Hellix-Light.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Hellix-Light.woff2') format('woff2'),
+      url('../fonts/Hellix-Light.woff') format('woff'),
+      url('../fonts/Hellix-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Hellix';
+  src: url('../fonts/Hellix-Bold.eot');
+  src: local('Hellix Bold'), local('Hellix-Bold'),
+      url('../fonts/Hellix-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Hellix-Bold.woff2') format('woff2'),
+      url('../fonts/Hellix-Bold.woff') format('woff'),
+      url('../fonts/Hellix-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Hellix';
+  src: url('../fonts/Hellix-Medium.eot');
+  src: local('Hellix Medium'), local('Hellix-Medium'),
+      url('../fonts/Hellix-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Hellix-Medium.woff2') format('woff2'),
+      url('../fonts/Hellix-Medium.woff') format('woff'),
+      url('../fonts/Hellix-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+
